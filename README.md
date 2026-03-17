@@ -34,4 +34,4 @@ See [LICENSE-COMMERCIAL.md](LICENSE-COMMERCIAL.md) for full terms.
 
 ### Contact
 
-For commercial licensing inquiries, reach out via [GitHub](https://github.com/xxdamlaxx) or email at *(e-posta adresini ekle)*.
+For commercial licensing inquiries, reach out via [GitHub](https://github.com/xxdamlaxx) or email at *(coming soon)*.
