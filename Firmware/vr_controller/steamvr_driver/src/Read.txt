@@ -1,0 +1,13 @@
+PowerShell
+
+
+cd C:\Users\emre_\OneDrive\Belgeler\GitHub\DroidVR\Firmware\vr_controller\steamvr_driver\build
+cmake --build . --config Release
+Copy-Item -Force "..\diyvr\bin\win64\Release\driver_diyvr.dll" "C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\diyvr\bin\win64\driver_diyvr.dll"
+
+
+CMD:
+
+cd C:\Users\emre_\OneDrive\Belgeler\GitHub\DroidVR\Firmware\vr_controller\steamvr_driver\build
+cmake --build . --config Release
+copy /Y "..\diyvr\bin\win64\Release\driver_diyvr.dll" "C:\Program Files (x86)\Steam\steamapps\common\SteamVR\drivers\diyvr\bin\win64\driver_diyvr.dll"

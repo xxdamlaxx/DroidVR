@@ -1,0 +1,10 @@
+{
+  "driver/diyvr": {
+    "serialPort": "COM9",
+    "baudRate": 115200,
+    "enable": true,
+    "controllerOffsetX": 0.0,
+    "controllerOffsetY": 0.0,
+    "controllerOffsetZ": -0.3
+  }
+}

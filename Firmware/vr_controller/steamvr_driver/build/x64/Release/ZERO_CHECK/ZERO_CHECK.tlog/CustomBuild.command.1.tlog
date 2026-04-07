@@ -1,0 +1,10 @@
+^C:\USERS\EMRE_\ONEDRIVE\BELGELER\GITHUB\DROIDVR\FIRMWARE\VR_CONTROLLER\STEAMVR_DRIVER\BUILD\CMAKEFILES\DC679924630F95E5036592111BB67785\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/emre_/OneDrive/Belgeler/GitHub/DroidVR/Firmware/vr_controller/steamvr_driver -BC:/Users/emre_/OneDrive/Belgeler/GitHub/DroidVR/Firmware/vr_controller/steamvr_driver/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/emre_/OneDrive/Belgeler/GitHub/DroidVR/Firmware/vr_controller/steamvr_driver/build/driver_diyvr.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,21 @@
+{
+  "jsonid": "input_profile",
+  "controller_type": "diyvr_controller",
+  "device_class": "TrackedDeviceClass_Controller",
+  "resource_root": "diyvr",
+  "input_bindingui_mode": "controller_handed",
+  "input_bindingui_left": {},
+  "input_bindingui_right": {},
+  "input_source": {
+    "/input/joystick": {
+      "type": "joystick",
+      "binding_image_point": [0.5, 0.3],
+      "order": 1
+    },
+    "/input/trigger": {
+      "type": "trigger",
+      "binding_image_point": [0.5, 0.7],
+      "order": 2
+    }
+  }
+}

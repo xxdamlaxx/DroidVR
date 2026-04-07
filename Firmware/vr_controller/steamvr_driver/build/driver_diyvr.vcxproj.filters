@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\emre_\OneDrive\Belgeler\GitHub\DroidVR\Firmware\vr_controller\steamvr_driver\src\driver_diyvr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\emre_\OneDrive\Belgeler\GitHub\DroidVR\Firmware\vr_controller\steamvr_driver\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{B699AEBF-F17E-3B18-8825-576FF351A715}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
